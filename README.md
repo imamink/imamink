@@ -1,2 +1,11 @@
-## Hi I'm Marcus, 👋
-I'm a Full Stack Developer and Student passionate about building robust, scalable web applications and leveraging data to solve real-world problems.
+# 👋 Hi, I'm Marcus
+
+I'm a Computer Science student interested in backend development, cloud computing, and cybersecurity. I enjoy building real projects and learning new technologies.
+
+## 🔧 Skills
+- Python, Java, C, JavaScript  
+- React, React Native, Django  
+- AWS, Firebase, SQL, Git  
+
+## 🌱 Learning
+React, Swift, and cloud-native development.
