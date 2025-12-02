@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcus
 
-I'm a Computer Science student interested in backend development, cloud computing, and cybersecurity. I enjoy building real projects and learning new technologies.
+I'm a Computer Science student interested in fullstack development, cloud computing, and cybersecurity. I enjoy building real projects and learning new technologies.
 
 ## 🔧 Skills
 - Python, Java, C, JavaScript  
