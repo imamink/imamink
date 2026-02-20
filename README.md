@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Marcus
 
-I'm a Computer Science student interested in fullstack development, cloud computing, and cybersecurity. I enjoy building real projects and learning new technologies.
+I'm a Computer Science student (B.S., May 2026) with a growing focus on data analysis, healthcare technology, and business intelligence. I enjoy building end-to-end data projects and turning messy datasets into clear, actionable insights.
 
 ## 🔧 Skills
-- Python, Java, C, JavaScript  
-- React, React Native, Django  
-- AWS, Firebase, SQL, Git  
+- Python, SQL, Java, JavaScript
+- Pandas, NumPy, Scikit-learn, Plotly Dash
+- Git, Jupyter Notebook, VS Code
 
 ## 🌱 Learning
-React, Swift, and cloud-native development.
+- Advanced SQL for analytics and reporting
+- Business intelligence and data visualization
+- Healthcare data and technology
